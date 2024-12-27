@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1616978920 source:e:\documentos\academico\estrutura de dados 1\mauro fonseca\2021 ead\listadeclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lista.h"
+
+1616271687 e:\documentos\academico\estrutura de dados 1\mauro fonseca\2021 ead\listadeclientes\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1616950608 source:e:\documentos\academico\estrutura de dados 1\mauro fonseca\2021 ead\listadeclientes\lista.c
+	"lista.h"
+
+1616808222 e:\documentos\academico\estrutura de dados 1\mauro fonseca\2021 ead\listadeclientes\listaseq.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1616808221 source:e:\documentos\academico\estrutura de dados 1\mauro fonseca\2021 ead\listadeclientes\listaseq.c
+	"listaSeq.h"
+	<stdio.h>
+	<stdlib.h>
+
